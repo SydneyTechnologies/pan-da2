@@ -24,7 +24,7 @@ prefs = {"profile.managed_default_content_settings.images": 2}
 chrome_options.add_argument("--silent")
 chrome_options.add_argument("--headless")
 chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
-chrome_options.add_extension('C:\\Users\\sydne\\Desktop\\panda\\ublock.crx')
+#chrome_options.add_extension('C:\\Users\\sydne\\Desktop\\panda\\ublock.crx')
 #chrome_options.add_experimental_option("prefs", prefs)
 # the target url is tfpdl.is
 search = "doctor strange 2022"
